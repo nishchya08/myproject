@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 i
 fdff
 fdf c cbisjsshdd
 Hi F1
+Hi F2
